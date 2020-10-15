@@ -6,12 +6,21 @@
 </head>
 <body>
 	<div class="music">我是音乐,点我</div>
-	<audio src="qby.mp3" id="hh"></audio>
+	<audio src="qby.mp3" id="myMusic"></audio>
 	<script >
-		var btn=document.getElementsByTagName("music")[0]
-		var hh=document.getElementsByTagName("hh")
-        btn.onclick=function();{
-        	hh.play();
+		var btn = document.getElementsByTagName("music")[0];
+		var myMusic = document.getElementsByTagName("myMusic");
+		var onOff=true;
+        btn.onclick = function();{
+        	if (onOff) 
+        	{
+        		myMusic.play();
+        		onOff=false;
+        	}else{
+        		myMusic.pause();
+        		onOff=true;
+        	}
+        	
         }
 	</script>
 	<h1>哇哈哈哈，俺是1.0</h1>
