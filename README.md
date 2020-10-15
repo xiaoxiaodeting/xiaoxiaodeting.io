@@ -16,7 +16,8 @@
         	{
         		myMusic.play();
         		onOff=false;
-        	}else{
+        	}
+		else{
         		myMusic.pause();
         		onOff=true;
         	}
@@ -28,6 +29,7 @@
 	<p>按走的小清新风格，简约，内敛，沉静，大道至简</p>
 	<h1>俺滴任务</h1>
 	<p>那就是</p>
-<p>求指教，点赞，三连</p>
+<p>求指教，俺音乐播不了（哭）明明用的Js</p>
+<img src="">
 </body>
 </html>
