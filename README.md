@@ -32,14 +32,13 @@
 <p>求指教，俺这种音乐播不了（哭）是Js不对吗</p>
 <img src="cuo.jpg">
 <h3>超级建议点赞，看看会发生啥！！！！</h3>
-<p>可以多点几次哦</p>
 <table>
 	<td id="control"><img src="zan.bmp"></td>
 	<td><img src="bi.bmp"></td>
 	<td><img src="xing.bmp"> </td>
 
 </table>
-<buttom onclick=myFuction()><img  src="zan.bmp"></buttom>
+<buttom onclick=myFuction()>我是点赞按钮</buttom>
 	    <script>
 	        function myFuction(){
 	            alert("谢谢屏幕前的大帅哥和大漂亮")
