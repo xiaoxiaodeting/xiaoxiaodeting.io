@@ -39,29 +39,11 @@
 	<td><img src="xing.bmp"> </td>
 
 </table>
-<script >
-	var e,i;
-	e=document.getElementsById("control")
-	i=0;
-	e.onclick=function(){
-		if(i==0){
-			alert("谢谢屏幕前的大帅哥，还有大漂亮")；
-			i++;
-		}if(i==1){
-			alert("点赞的各位父老乡亲们，出门捡到钱")；
-			i++
-		}if(i==2){
-			alert("点赞的各位父老乡亲们，游戏不掉线")；
-			i++
-		}if(i==3){
-			alert("点赞的各位父老乡亲们，活到一万岁")；
-			i++
-		}else{
-			alert("施主，真没了")；
-			i=0；
-		}
-		return false;
-	}
-</script>
+<buttom onclick=myFuction()><img  src="zan.bmp"></buttom>
+	    <script>
+	        function myFuction(){
+	            alert("谢谢屏幕前的大帅哥和大漂亮")
+	        }
+	    </script>
 </body>
 </html>
