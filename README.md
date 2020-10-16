@@ -34,7 +34,7 @@
 <h3>超级建议点赞，看看会发生啥！！！！</h3>
 <p>可以多点几次哦</p>
 <table>
-	<td><img id="control" src="zan.bmp"></td>
+	<td id="control"><img src="zan.bmp"></td>
 	<td><img src="bi.bmp"></td>
 	<td><img src="xing.bmp"> </td>
 
