@@ -14,7 +14,7 @@
 <p>求指教，点赞，三连</p>
 	<p>用Js音乐没法播放，救救孩子吧wx15843998689</p>
 <img  src="cuo.jpg">
-<h1 onclick=myFunction()>。</h12>
+<h1 onclick=myFunction()>。</h1>
 <table>
 	<td ><img  src="zan.bmp"></td>
 	<td><img src="bi.bmp"></td>
