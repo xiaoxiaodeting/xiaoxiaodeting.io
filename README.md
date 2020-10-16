@@ -33,7 +33,7 @@
 <img src="cuo.jpg">
 <h3>超级建议点赞，看看会发生啥！！！！</h3>
 <table>
-	<td id="control"><img src="zan.bmp"></td>
+	<td><img src="zan.bmp"></td>
 	<td><img src="bi.bmp"></td>
 	<td><img src="xing.bmp"> </td>
 
