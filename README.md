@@ -29,7 +29,13 @@
 	<p>按走的小清新风格，简约，内敛，沉静，大道至简</p>
 	<h1>俺滴任务</h1>
 	<p>那就是</p>
-<p>求指教，俺音乐播不了（哭）是Js不对吗</p>
-<img src="t.jpg">
+<p>求指教，俺这种音乐播不了（哭）是Js不对吗</p>
+<img src="cuo.jpg">
+<table>
+	<td><img src="zan.bmp"></td>
+	<td><img src="bi.bmp"></td>
+	<td><img src="xing.bmp"> </td>
+
+</table>
 </body>
 </html>
