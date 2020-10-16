@@ -5,10 +5,10 @@
 	<title>小小的世界</title>
 </head>
 <body>
-	<div class="music">我是音乐,点我</div>
+	<div class="play">我是音乐,点我</div>
 	<audio src="qby.mp3" id="myMusic"></audio>
 	<script >
-		var btn = document.getElementsByClassName("music")[0];
+		var btn = document.getElementsByClassName("play")[0];
 		var myMusic = document.getElementsById("myMusic");
 		var onOff=true;
         btn.onclick = function();{
