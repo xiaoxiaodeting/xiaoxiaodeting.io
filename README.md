@@ -14,7 +14,7 @@
 <p>求指教，点赞，三连</p>
 	<p>用Js音乐没法播放，救救孩子吧wx15843998689</p>
 <img  src="cuo.jpg">
-<h3 onclick=myFunction()>。</h3>
+<h1 onclick=myFunction()>。</h12>
 <table>
 	<td ><img  src="zan.bmp"></td>
 	<td><img src="bi.bmp"></td>
@@ -44,6 +44,10 @@
 		return false;
 	}
 </script>
+<h2>打赏作者,请瞅这儿</h2>
+<p>如果您看着还行，可以扫描下方二维码，以示鼓励</p>
+<img src="ds.jpg">
+<p>如果您看着不爽，还请扫描上方二维码资助作者</p>
 </body>
 </html>
 
